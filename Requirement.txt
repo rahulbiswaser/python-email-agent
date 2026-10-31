@@ -1,0 +1,3 @@
+openai : Required for openai API Key
+streamlit : Required for the UI
+python-dotnev : load keys from env file
